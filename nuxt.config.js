@@ -15,10 +15,6 @@ export default {
       { name: 'format-detection', content: 'telephone=no' }
     ],
     link: [
-<<<<<<< HEAD
-      { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }
-    ]
-=======
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },
       { rel: "stylesheet", type: "text/css", href:
        "https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" }
@@ -28,15 +24,11 @@ export default {
       { src: 'https://code.jquery.com/jquery-3.5.1.slim.min.js' },
       { src: 'https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js' }
 ]
->>>>>>> commit 2
   },
 
   // Global CSS: https://go.nuxtjs.dev/config-css
   css: [
-<<<<<<< HEAD
-=======
       'static/css/style.css'
->>>>>>> commit 2
   ],
 
   // Plugins to run before rendering page: https://go.nuxtjs.dev/config-plugins
